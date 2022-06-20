@@ -9,5 +9,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ### `API Key`
-Use your own api key and use .env.local file to store your KEY.
+Use your own api key and use .env.local file to store your KEY. \
 check https://newsapi.org for more info.
