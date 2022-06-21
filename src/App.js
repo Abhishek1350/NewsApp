@@ -17,7 +17,7 @@ const App = () => {
         <Route exact path="/sports" element={<News category="sports" />} />
         <Route exact path="*" element={<Spinner text="Page Not Found" hidden="hidden" show="show" />} />
       </Routes>
-      <Footer/>
+      <Footer />
     </Router>
 
   )

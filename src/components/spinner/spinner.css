@@ -22,14 +22,14 @@
     box-shadow: 0 5px 20px rgba(255, 0, 0, 0.5);
 }
 
-.ring p{
+.ring p {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Roboto Condensed', sans-serif;
     -webkit-text-fill-color: transparent;
-    background: linear-gradient(90deg,#7f7dff,red,rgb(0, 255, 94));
+    background: linear-gradient(90deg, #7f7dff, red, rgb(0, 255, 94));
     -webkit-background-clip: text;
     font-weight: 600;
 }
@@ -60,11 +60,11 @@
     animation: animate 2s linear infinite;
 }
 
-.hidden{
+.hidden {
     display: none;
 }
 
-.show{
+.show {
     display: inline;
 }
 

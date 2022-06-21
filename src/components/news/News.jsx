@@ -6,6 +6,7 @@ import Spinner from "../spinner/Spinner"
 const News = ({ category }) => {
   const [newsData, setNewsData] = useState([]);
   const [loading, setLoading] = useState(false)
+
   useEffect(() => {
     setLoading(true)
     document.title = `News-${category}`
@@ -20,6 +21,7 @@ const News = ({ category }) => {
     }
     fetchNews();
   }, [category])
+
   return (
     <>
       <div className="news-container">
