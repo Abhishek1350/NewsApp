@@ -1,13 +1,29 @@
-## Installation & Usage
+
+
+
+
+
+
+
+
+
+
+ ## Installation & Usage
+
 In the project directory, you can run:
 
 ### `npm i` - only once
+
+### `API Key`
+
+Use your own API Key and Store it on .env.local file in the Root Directory Of The Project \
+
+Visit https://newsapi.org for API Key.
+
 ### `npm start`
 
 Runs the app in the development mode.\
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-### `API Key`
-Use your own api key and use .env.local file to store your KEY. \
-check https://newsapi.org for more info.
