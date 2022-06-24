@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
  ## Installation & Usage
 
 In the project directory, you can run:
@@ -16,7 +6,7 @@ In the project directory, you can run:
 
 ### `API Key`
 
-Use your own API Key and Store it on .env.local file in the Root Directory Of The Project \
+Use your own API Key and Store it on .env.local file in the root directory of the project.
 
 Visit https://newsapi.org for API Key.
 
